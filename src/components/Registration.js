@@ -309,14 +309,6 @@ function Registration({handleNext,handleBack}) {
 
                       </div>
                     </Grid>
-                    <Grid item lg={3} md={4} sm={12} xs={12}>
-                    <div>
-                    <TextField id="outlined-basic" label="NOY" variant="outlined" />
-
-                      </div>
-                    </Grid>
-                   
-
                    
                    </Grid>
 
